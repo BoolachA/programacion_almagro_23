@@ -4,6 +4,7 @@ public class main {
 
 	public static void main(String[] args) {
 		
+		//Prueba de cambio
 		String email = "prueba@gmail.com";
 		email = email.trim();
 		
